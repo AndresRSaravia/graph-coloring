@@ -16,7 +16,7 @@ Dicho proyecto está programado en C y, dado un grafo como input, es capaz de co
 
 [ES] Simple, el `Makefile` te tiene cubierto. `IronThrone` compila el ejecutable de forma estándar con todas las warnings, `valgrind` chequea las pérdidas de memoria y `clean` elimina el ejecutable `IronThrone` y todos los `.o`.
 
-### Who do I talk to? ###
+### Contact / Contacto ###
 
 [EN] For any questions or messages, you can contact us through our respective LinkedIn profiles:
 
